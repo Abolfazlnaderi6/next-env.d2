@@ -35,9 +35,9 @@ export default function callus() {
                         برای تماس با ما با شماره های ذیل تماس حاصل فرمایید:
                     </h1>
                     <br />
-                    <a href="tel:021-554543233" className="text-2xl">021-554543233</a>
+                    <a href="tel:09335263860" className="text-2xl">09335263860</a>
                     <br />
-                    <a href="tel:0910-554543233" className="text-2xl">0910-554543233</a>
+                    <a href="tel:09336968566" className="text-2xl">09336968566</a>
                     <br />
                     <h1>
                         شبکه های اجتماعی:
@@ -65,7 +65,7 @@ export default function callus() {
             {/* Footer */}
             <footer className="border-t border-slate-200 bg-white">
                 <div className="max-w-7xl mx-auto px-6 lg:px-8 py-8 text-center text-slate-600 text-sm">
-                    <p>© ۱۴۰۳ توان نما. تمامی حقوق محفوظ است.</p>
+                    <p>© 1404 توان نما. تمامی حقوق محفوظ است.</p>
                 </div>
             </footer>
         </div>
