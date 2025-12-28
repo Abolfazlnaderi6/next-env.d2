@@ -74,7 +74,7 @@ export default function HomePage() {
                 <Zap className="w-6 h-6 text-blue-500" />
               </div>
             </div>
-            <div className="text-3xl font-bold text-slate-800"> 533میلیون کیلووات </div>
+            <div className="text-2xl font-bold text-slate-800"> 533میلیون کیلووات </div>
             <div className="text-slate-600 text-sm mt-1">سرانه مصرف ماهیانه برق در استان البرز </div>
           </div>
 
@@ -275,7 +275,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-slate-200 mt-12 pt-8 text-center text-slate-600">
-            <p>© ۱۴۰۳ توان نما. تمامی حقوق محفوظ است.</p>
+            <p>© 1404 توان نما. تمامی حقوق محفوظ است.</p>
           </div>
         </div>
       </footer>
